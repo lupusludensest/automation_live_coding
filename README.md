@@ -17,6 +17,6 @@
 
 https://lupusludensest.github.io/automation_live_coding/
 
-pytest --alluredir=allure_reports
+pytest --alluredir=allure-results
 
-allure serve allure_reports
+allure serve allure-results
