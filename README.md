@@ -14,3 +14,5 @@
 12. Прогнать всё локально;
 13. Написать базовый .github/workflows/config.yml
 14. Написать полный конфиг для хранения истории запусков;
+
+https://lupusludensest.github.io/automation_live_coding/
