@@ -16,3 +16,7 @@
 14. Написать полный конфиг для хранения истории запусков;
 
 https://lupusludensest.github.io/automation_live_coding/
+
+pytest --alluredir=allure_reports
+
+allure serve allure_reports
