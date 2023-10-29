@@ -20,3 +20,6 @@ https://lupusludensest.github.io/automation_live_coding/
 pytest --alluredir=allure-results
 
 allure serve allure-results
+
+docker-compose up
+
